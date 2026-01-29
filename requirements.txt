@@ -1,6 +1,6 @@
 # Минимальный набор зависимостей для проекта Афиша
 pandas==3.0.0
-sqlalchemy==2.0.0
+sqlalchemy==2.0.36
 python-dotenv==1.2.1
 psycopg2-binary==2.9.11
 jupyterlab==4.5.3
