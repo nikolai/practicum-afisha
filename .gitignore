@@ -1,0 +1,5 @@
+.env
+.venv/
+requirements_prakticum.txt
+afisha_local.csv
+.ipynb_checkpoints/

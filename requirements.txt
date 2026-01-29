@@ -1,0 +1,12 @@
+# Минимальный набор зависимостей для проекта Афиша
+pandas==3.0.0
+sqlalchemy==2.0.0
+python-dotenv==1.2.1
+psycopg2-binary==2.9.11
+jupyterlab==4.5.3
+ipykernel==7.1.0
+matplotlib==3.10.8
+seaborn==0.13.2
+numpy==2.4.1
+scipy==1.17.0
+phik==0.12.5
